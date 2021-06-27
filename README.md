@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Adding Quote App (by react route)
+
+Prod ready code: \
+[https://myreactproject-9c4db.web.app/](https://myreactproject-9c4db.web.app/) 
+
+### `Main Screen`
+![plot](showcase1.png)
+
+### `Quote details and comments section`
+![plot](showcase2.png)
+
+### `New Quote adding form`
+![plot](showcase3.png)
+
+# 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
